@@ -1,5 +1,7 @@
 # WZGW
-## Wybrane Zagadnienia Geodezji Wyższej __*Semestr 3*__
+## Wybrane Zagadnienia Geodezji Wyższej 
+__*Semestr 3*__
+
 
 __Projekt 1__ - Transformacje układów współrzędnych, wsp geodezyjne, wsp topocentryczne (neu). Wizualizacja trasy lotu samolotu. 
 
